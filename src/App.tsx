@@ -38,7 +38,7 @@ function App() {
           index
           element={
             <>
-              <PageTitle title="DashboardData Dashboard | Admin Panel - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Dashboard | Admin Panel - Tailwind CSS Admin Dashboard Template" />
               <DashboardData />
             </>
           }
